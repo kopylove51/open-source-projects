@@ -1,10 +1,9 @@
 # Автоматизация скачивания фильмов и сериалов
 
-> [!info] 
-> Референсные мануалы:
-> 1. https://connect.smartliving.ru/profile/225/blog/ustanovka-i-nastroyka-sonarr-radarr-qbittorrent-jackett-torproxy-v-docker.html
-> 2. https://habr.com/ru/articles/719572/
-> 3. [https://chat.deepseek.com/a/chat/s/ba4a6f3a-7c13-4ef7-aa48-9ac5b31ef81a](https://chat.deepseek.com/a/chat/s/78282374-ca24-4e53-a88b-8c2e938b347d)
+
+Референсные мануалы:
+1. https://connect.smartliving.ru/profile/225/blog/ustanovka-i-nastroyka-sonarr-radarr-qbittorrent-jackett-torproxy-v-docker.html
+2. https://habr.com/ru/articles/719572/
 
 ### Проект автоматического поиска и скачивания сериалов и фильмов с последующей их публикацией в медиосервисе PLEX. 
 Стек:
